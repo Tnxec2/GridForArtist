@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuSetColor"
+        android:icon="@drawable/ic_color_lens_black_24dp"
+        android:title="@string/menu_set_color" />
+    <item android:id="@+id/menuSetStroke"
+        android:icon="@drawable/ic_line_weight_black_24dp"
+        android:title="@string/menu_set_stroke" />
+    <item android:id="@+id/menuResetGrid"
+        android:icon="@drawable/ic_border_clear_black_24dp"
+        android:title="@string/menu_reset_grid" />
+    <item android:id="@+id/menuResteOffset"
+        android:icon="@drawable/ic_clear_all_black_24dp"
+        android:title="@string/menu_reset_offset" />
+</menu>

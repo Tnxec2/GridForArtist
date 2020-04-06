@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Grid for Artist</string>
+    <string name="ButtonImage">Image</string>
+    <string name="ButtonGrid">Grid</string>
+    <string name="Toast_GridIsLocked">Grid is locked</string>
+    <string name="Toast_GridIsUnLocked">Grid is unlocked</string>
+    <string name="menu_set_color">Set color</string>
+    <string name="menu_set_stroke">Set stroke</string>
+    <string name="menu_reset_grid">Reset grid</string>
+    <string name="menu_reset_offset">Reset offset</string>
+    <string name="alert_cdnt_save_image">Could not save image</string>
+    <string name="alert_image_saved">Image saved</string>
+    <string name="status_text">offset: %d, %d; cols: %d, rows: %d"</string>
+    <string name="set_grid_stroke_weight">Set grid stroke weight</string>
+    <string name="choose_number">Choose a number :</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+</resources>
